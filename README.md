@@ -36,3 +36,5 @@ Iniciando JavaScript e React
 <br>
 <br>
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcy2&layout=compact)
