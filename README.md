@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu me chamo Alcy, sou um desenvolvedor Front-End, atualmente estou aprendendo e criando projetos com:
+Eu me chamo #Alcy#, sou um desenvolvedor Web, atualmente estou aprendendo e criando projetos com:
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="78px" height="28px"/>
